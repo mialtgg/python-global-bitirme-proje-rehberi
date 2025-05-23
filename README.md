@@ -1,0 +1,1 @@
+# python-global-bitirme-proje-rehberi
